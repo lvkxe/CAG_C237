@@ -10,10 +10,14 @@ const connection = mysql.createConnection({
     //user: 'root',
     //password: '',
     //database: 'clothingshopcag2'
-    host: 'sql.freedb.tech',
-    user: 'freedb_C237CAG',
-    password: 'e4#5Z@FY4fHF5gH',
-    database: 'freedb_C237CAG'
+    //host: 'sql.freedb.tech',
+    //user: 'freedb_C237CAG',
+    //password: 'e4#5Z@FY4fHF5gH',
+    //database: 'freedb_C237CAG'
+    host: 'pro.freedb.tech',
+    user: 'pandas',
+    password: 'qjj3BGQTr7nf2R$',
+    database: 'pro.freedb.tech'
 });
 
 /*
