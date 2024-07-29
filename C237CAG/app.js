@@ -17,7 +17,7 @@ const connection = mysql.createConnection({
     host: 'pro.freedb.tech',
     user: 'pandas',
     password: 'qjj3BGQTr7nf2R$',
-    database: 'pro.freedb.tech'
+    database: 'pandasdb'
 });
 
 /*
