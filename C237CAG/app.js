@@ -6,10 +6,14 @@ const app = express();
 
 // Create MySQL connection
 const connection = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: '',
-    database: 'clothingshopcag2'
+    //host: 'localhost',
+    //user: 'root',
+    //password: '',
+    //database: 'clothingshopcag2'
+    host: 'sql.freedb.tech',
+    user: 'freedb_C237CAG',
+    password: 'e4#5Z@FY4fHF5gH',
+    database: 'freedb_C237CAG'
 });
 
 /*
